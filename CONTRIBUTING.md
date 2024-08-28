@@ -6,9 +6,9 @@ We expect anyone who contributes to AdaCore GitHub to follow the [AdaCore Code o
 
 ## I want to contribute a patch. What do I need to do? 
 
-The first time you want to contribute a patch on the AdaCore GitHub, we ask you to electronically approve our [Individual Contributor Licence Agreement](adacore-individual-cla.md). [CLA assistant](https://cla-assistant.io/) will send you a link on your GitHub pull request to do so.
+The first time you want to contribute a patch on the AdaCore GitHub, we ask you to electronically approve our [Individual Contributor Licence Agreement](https://github.com/AdaCore/contributing-howto/blob/master/adacore-individual-cla.md). [CLA assistant](https://cla-assistant.io/) will send you a link on your GitHub pull request to do so.
 
-If you’re employed by a company as an employee, an intern or any similar status or if you’re working for hire for someone, you’ll also need a representative of your employer to sign a [Corporation Contributor Licence Agreement](adacore-corporation-cla.md) and send it by e-mail to <contributions@adacore.com>.
+If you’re employed by a company as an employee, an intern or any similar status or if you’re working for hire for someone, you’ll also need a representative of your employer to sign a [Corporation Contributor Licence Agreement](https://github.com/AdaCore/contributing-howto/blob/master/adacore-corporation-cla.md) and send it by e-mail to <contributions@adacore.com>.
 
 Once this is done, you won’t need to take any further action: our Contributor Licence Agreements will cover all your subsequent contributions and you’ll be done with paperwork!
 
